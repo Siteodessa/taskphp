@@ -1,0 +1,35 @@
+.wrapper{
+    width: 650px;
+    margin: 0 auto;
+}
+.page-header h2{
+    margin-top: 0;
+}
+table tr td:last-child a{
+    margin-right: 15px;
+}img.veloz {
+width:  200px;margin:20px 0 10px;
+}
+body {
+    background: url(../img/back.jpg) no-repeat;
+    min-height:  100vh;
+}
+
+.row {
+    background: #ffffff;
+}
+
+tr {
+    background: #c3c8ca;
+}
+
+
+.container-fluid {
+    margin: 300px 0;
+}
+.btn-success {
+    color: #fff;
+    background-color: transparent;
+    border-color: #4cae4c;
+    color: #4cae4c;
+}
